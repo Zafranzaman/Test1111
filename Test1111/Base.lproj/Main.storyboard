@@ -22,6 +22,12 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Button"/>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RYC-vk-h4s">
+                                <rect key="frame" x="139" y="449" width="113" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
